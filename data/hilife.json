@@ -1,0 +1,1416 @@
+[
+    {
+        "City": "臺北市",
+        "Town": "中正區",
+        "store_id": "4227",
+        "store_name": "北市秋葉原店",
+        "store_address": "100台北市中正區八德路一段82巷10號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "中正區",
+        "store_id": "3625",
+        "store_name": "北市正童店",
+        "store_address": "100台北市中正區中山南路8號B1"
+    },
+    {
+        "City": "臺北市",
+        "Town": "中正區",
+        "store_id": "3576",
+        "store_name": "北市正光店",
+        "store_address": "100台北市中正區市民大道三段8號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "中正區",
+        "store_id": "4199",
+        "store_name": "北市古亭店",
+        "store_address": "100台北市中正區辛亥路一段17巷2號及19號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "中正區",
+        "store_id": "4898",
+        "store_name": "中正大忠門",
+        "store_address": "100台北市中正區信義路一段13之1號一樓"
+    },
+    {
+        "City": "臺北市",
+        "Town": "中正區",
+        "store_id": "2457",
+        "store_name": "中正正泉店",
+        "store_address": "100台北市中正區泉州街31、33號、寧波西街104號一樓"
+    },
+    {
+        "City": "臺北市",
+        "Town": "中正區",
+        "store_id": "2284",
+        "store_name": "北市正台店",
+        "store_address": "100台北市中正區常德街1號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "中正區",
+        "store_id": "3936",
+        "store_name": "北市台大店",
+        "store_address": "100台北市中正區常德街1號B1"
+    },
+    {
+        "City": "臺北市",
+        "Town": "中正區",
+        "store_id": "4096",
+        "store_name": "北市正忠店",
+        "store_address": "100台北市中正區梅花里８鄰忠孝東路一段３５號一樓全部"
+    },
+    {
+        "City": "臺北市",
+        "Town": "中正區",
+        "store_id": "2895",
+        "store_name": "北市正東店",
+        "store_address": "100台北市中正區紹興南街4之12號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "中正區",
+        "store_id": "3768",
+        "store_name": "北市司法店",
+        "store_address": "100台北市中正區博愛路 131號B1"
+    },
+    {
+        "City": "臺北市",
+        "Town": "中正區",
+        "store_id": "4321",
+        "store_name": "中正高院店",
+        "store_address": "100台北市中正區博愛路127號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "中正區",
+        "store_id": "3611",
+        "store_name": "北市正慶店",
+        "store_address": "100台北市中正區衡陽路103號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "大同區",
+        "store_id": "2845",
+        "store_name": "北市同京店",
+        "store_address": "103台北市大同區西寧北路35號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "大同區",
+        "store_id": "3633",
+        "store_name": "北市延年店",
+        "store_address": "103台北市大同區延平北路3段40號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "大同區",
+        "store_id": "2792",
+        "store_name": "大同同達店",
+        "store_address": "103台北市大同區延平北路二段114.116.118號及民生西路335號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "大同區",
+        "store_id": "D010",
+        "store_name": "北市延平店",
+        "store_address": "103台北市大同區延平北路二段255-1號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "大同區",
+        "store_id": "3685",
+        "store_name": "北市京承店",
+        "store_address": "103台北市大同區承德路一段1號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "大同區",
+        "store_id": "3683",
+        "store_name": "北市京站店",
+        "store_address": "103台北市大同區承德路一段1號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "大同區",
+        "store_id": "4232",
+        "store_name": "北市同承店",
+        "store_address": "103台北市大同區承德路三段284及286號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "大同區",
+        "store_id": "2389",
+        "store_name": "北市同吉店",
+        "store_address": "103台北市大同區昌吉街63號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "大同區",
+        "store_id": "3088",
+        "store_name": "北市同蝶店",
+        "store_address": "103台北市大同區南京西路30號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "大同區",
+        "store_id": "3570",
+        "store_name": "北市雙蝶店",
+        "store_address": "103台北市大同區南京西路64巷9弄2號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "大同區",
+        "store_id": "2707",
+        "store_name": "北市同密店",
+        "store_address": "103台北市大同區哈密街59巷21號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "大同區",
+        "store_id": "E090",
+        "store_name": "北市迪化店",
+        "store_address": "103台北市大同區迪化街一段50號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "大同區",
+        "store_id": "3080",
+        "store_name": "北市同安店",
+        "store_address": "103台北市大同區重慶北路一段63號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "大同區",
+        "store_id": "3686",
+        "store_name": "北市圓捷店",
+        "store_address": "103台北市大同區酒泉街15號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "中山區",
+        "store_id": "B044",
+        "store_name": "北市中山店",
+        "store_address": "104台北市中山區中山北路二段137巷2號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "中山區",
+        "store_id": "4472",
+        "store_name": "中山逸仙店",
+        "store_address": "104台北市中山區中山北路二段48巷7號B1(4號店鋪)"
+    },
+    {
+        "City": "臺北市",
+        "Town": "中山區",
+        "store_id": "4728",
+        "store_name": "中山國賓店",
+        "store_address": "104台北市中山區中山北路二段65巷6號1、2樓"
+    },
+    {
+        "City": "臺北市",
+        "Town": "中山區",
+        "store_id": "4957",
+        "store_name": "中山美妍店",
+        "store_address": "104台北市中山區中山北路二段93巷5及5-1號 "
+    },
+    {
+        "City": "臺北市",
+        "Town": "中山區",
+        "store_id": "3225",
+        "store_name": "北市大同店",
+        "store_address": "104台北市中山區中山北路三段40號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "中山區",
+        "store_id": "B098",
+        "store_name": "北市中原二店",
+        "store_address": "104台北市中山區中原街77號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "中山區",
+        "store_id": "3449",
+        "store_name": "北市山擎店",
+        "store_address": "104台北市中山區天祥路70號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "中山區",
+        "store_id": "B876",
+        "store_name": "北市馬偕店",
+        "store_address": "104台北市中山區民生西路3巷2號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "中山區",
+        "store_id": "4931",
+        "store_name": "中山合江店",
+        "store_address": "104台北市中山區合江街61巷1號1樓全部"
+    },
+    {
+        "City": "臺北市",
+        "Town": "中山區",
+        "store_id": "4883",
+        "store_name": "中山八達店",
+        "store_address": "104台北市中山區林森北路107巷86號1樓全部"
+    },
+    {
+        "City": "臺北市",
+        "Town": "中山區",
+        "store_id": "4647",
+        "store_name": "中山晶華店",
+        "store_address": "104台北市中山區林森北路258號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "中山區",
+        "store_id": "4055",
+        "store_name": "北市長松店",
+        "store_address": "104台北市中山區松江路50號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "中山區",
+        "store_id": "L518",
+        "store_name": "車麗屋松江店",
+        "store_address": "104台北市中山區松江路550號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "中山區",
+        "store_id": "4870",
+        "store_name": "中山四通店",
+        "store_address": "104台北市中山區長安東路一段53巷1之6號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "中山區",
+        "store_id": "2407",
+        "store_name": "北市山寧店",
+        "store_address": "104台北市中山區長安東路二段171-7號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "中山區",
+        "store_id": "2425",
+        "store_name": "北市山華店",
+        "store_address": "104台北市中山區長春路208號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "中山區",
+        "store_id": "2860",
+        "store_name": "北市山德店",
+        "store_address": "104台北市中山區德惠街109號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "中山區",
+        "store_id": "2051",
+        "store_name": "北市新喜店",
+        "store_address": "104台北市中山區德惠街167巷2號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "中山區",
+        "store_id": "4752",
+        "store_name": "中山錦東店",
+        "store_address": "104台北市中山區錦州街32之1號及32之2號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "中山區",
+        "store_id": "4551",
+        "store_name": "中山榮耀店",
+        "store_address": "104台北市中山區龍江路333號及331巷1號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "中山區",
+        "store_id": "4640",
+        "store_name": "中山力行店",
+        "store_address": "104台北市中山區龍江路47號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "松山區",
+        "store_id": "2797",
+        "store_name": "北市松育店",
+        "store_address": "105台北市松山區八德路3段119號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "松山區",
+        "store_id": "B156",
+        "store_name": "北市敦化店",
+        "store_address": "105台北市松山區八德路三段12巷51弄2號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "松山區",
+        "store_id": "B157",
+        "store_name": "北市民權二店",
+        "store_address": "105台北市松山區民權東路五段32號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "松山區",
+        "store_id": "3536",
+        "store_name": "北市松柏店",
+        "store_address": "105台北市松山區光復北路102號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "松山區",
+        "store_id": "4519",
+        "store_name": "松山無雙店",
+        "store_address": "105台北市松山區光復南路13巷16號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "松山區",
+        "store_id": "3395",
+        "store_name": "北市松清店",
+        "store_address": "105台北市松山區南京東路5段250巷3-1號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "松山區",
+        "store_id": "3656",
+        "store_name": "北市寶德店",
+        "store_address": "105台北市松山區南京東路5段61號及63號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "松山區",
+        "store_id": "4668",
+        "store_name": "松山京東店",
+        "store_address": "105台北市松山區南京東路五段123巷33號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "松山區",
+        "store_id": "4865",
+        "store_name": "松山新聚店",
+        "store_address": "105台北市松山區南京東路五段250巷18弄20、20之1號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "松山區",
+        "store_id": "2451",
+        "store_name": "北市松華店",
+        "store_address": "105台北市松山區南京東路五段34號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "松山區",
+        "store_id": "2506",
+        "store_name": "北市松康店",
+        "store_address": "105台北市松山區健康路325巷12弄2號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "松山區",
+        "store_id": "4234",
+        "store_name": "北市新樸實店",
+        "store_address": "105台北市松山區寧安街12號(育達高職樸實樓一樓107教室)"
+    },
+    {
+        "City": "臺北市",
+        "Town": "松山區",
+        "store_id": "3731",
+        "store_name": "北市家聲店",
+        "store_address": "105台北市松山區寧安街12號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "松山區",
+        "store_id": "2690",
+        "store_name": "北市松遠店",
+        "store_address": "105台北市松山區撫遠街369巷36號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "松山區",
+        "store_id": "4740",
+        "store_name": "松山撫遠店",
+        "store_address": "105台北市松山區撫遠街394巷1號、3號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "松山區",
+        "store_id": "2169",
+        "store_name": "北市饒河店",
+        "store_address": "105台北市松山區饒河街35號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "大安區",
+        "store_id": "5012",
+        "store_name": "大安地下街",
+        "store_address": "106台北市大安區大安路一段77號地下街4-1、4-2店舖"
+    },
+    {
+        "City": "臺北市",
+        "Town": "大安區",
+        "store_id": "4936",
+        "store_name": "大安仁醫店",
+        "store_address": "106台北市大安區仁愛路四段10號B1"
+    },
+    {
+        "City": "臺北市",
+        "Town": "大安區",
+        "store_id": "4177",
+        "store_name": "北市居安店",
+        "store_address": "106台北市大安區安居街15號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "大安區",
+        "store_id": "4473",
+        "store_name": "大安學霸店",
+        "store_address": "106台北市大安區辛亥路三段30號(研三宿舍)"
+    },
+    {
+        "City": "臺北市",
+        "Town": "大安區",
+        "store_id": "2479",
+        "store_name": "北市安華店",
+        "store_address": "106台北市大安區延吉街131巷43號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "大安區",
+        "store_id": "3351",
+        "store_name": "北市安孝店",
+        "store_address": "106台北市大安區忠孝東路三段287號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "大安區",
+        "store_id": "2001",
+        "store_name": "北市杭州店",
+        "store_address": "106台北市大安區杭州南路二段5號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "大安區",
+        "store_id": "5006",
+        "store_name": "大安勵學店",
+        "store_address": "106台北市大安區長興街92號1樓(台大男七宿舍)"
+    },
+    {
+        "City": "臺北市",
+        "Town": "大安區",
+        "store_id": "2639",
+        "store_name": "北市安建店",
+        "store_address": "106台北市大安區建國南路一段337號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "大安區",
+        "store_id": "4513",
+        "store_name": "大安人生店",
+        "store_address": "106台北市大安區基隆路三段155巷57號(臺大癌醫中心醫院)"
+    },
+    {
+        "City": "臺北市",
+        "Town": "大安區",
+        "store_id": "4803",
+        "store_name": "大安台科大店",
+        "store_address": "106台北市大安區基隆路四段43號(第一學生宿舍1樓B區)"
+    },
+    {
+        "City": "臺北市",
+        "Town": "大安區",
+        "store_id": "3979",
+        "store_name": "北市安興店",
+        "store_address": "106台北市大安區復興南路2段148號1樓全部"
+    },
+    {
+        "City": "臺北市",
+        "Town": "大安區",
+        "store_id": "2421",
+        "store_name": "北市安復店",
+        "store_address": "106台北市大安區復興南路一段135巷21號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "大安區",
+        "store_id": "3271",
+        "store_name": "北市臨江店",
+        "store_address": "106台北市大安區臨江街40巷2號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "大安區",
+        "store_id": "2182",
+        "store_name": "北市羅斯福店",
+        "store_address": "106台北市大安區羅斯福路二段75之1號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "大安區",
+        "store_id": "4633",
+        "store_name": "大安溫州店",
+        "store_address": "106台北市大安區羅斯福路三段283巷11號一樓"
+    },
+    {
+        "City": "臺北市",
+        "Town": "大安區",
+        "store_id": "4726",
+        "store_name": "大安新台大店",
+        "store_address": "106台北市大安區羅斯福路四段1號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "萬華區",
+        "store_id": "4812",
+        "store_name": "萬華內江店",
+        "store_address": "108台北市萬華區內江街126、128號一樓"
+    },
+    {
+        "City": "臺北市",
+        "Town": "萬華區",
+        "store_id": "4226",
+        "store_name": "北市民和店",
+        "store_address": "108台北市萬華區民和街10及12號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "萬華區",
+        "store_id": "4249",
+        "store_name": "北市華園店",
+        "store_address": "108台北市萬華區西園路一段168、170號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "萬華區",
+        "store_id": "3908",
+        "store_name": "北市萬鑫店",
+        "store_address": "108台北市萬華區西園路二段134、136、138號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "萬華區",
+        "store_id": "E968",
+        "store_name": "北市獅子林店",
+        "store_address": "108台北市萬華區西寧南路36之69,71.72.73.74號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "萬華區",
+        "store_id": "3497",
+        "store_name": "北市萬寧店",
+        "store_address": "108台北市萬華區長沙街二段50號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "萬華區",
+        "store_id": "E119",
+        "store_name": "北市梧州店",
+        "store_address": "108台北市萬華區梧州街29號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "萬華區",
+        "store_id": "3761",
+        "store_name": "北市鑫梧店",
+        "store_address": "108台北市萬華區梧州街55號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "萬華區",
+        "store_id": "4159",
+        "store_name": "北市班客店",
+        "store_address": "108台北市萬華區廣州街247號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "萬華區",
+        "store_id": "4082",
+        "store_name": "北市華德店",
+        "store_address": "108台北市萬華區德昌街241、243、245號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "萬華區",
+        "store_id": "4461",
+        "store_name": "萬華環州店",
+        "store_address": "108台北市萬華區環河南路二段96號1樓及2樓全部，98號1樓部份"
+    },
+    {
+        "City": "臺北市",
+        "Town": "萬華區",
+        "store_id": "3597",
+        "store_name": "北市艋舺店",
+        "store_address": "108台北市萬華區雙園街69號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "信義區",
+        "store_id": "4556",
+        "store_name": "信義首府店",
+        "store_address": "110台北市信義區市府路1號(B2便利生活空間)"
+    },
+    {
+        "City": "臺北市",
+        "Town": "信義區",
+        "store_id": "2729",
+        "store_name": "北市信吉店",
+        "store_address": "110台北市信義區永吉路125號一樓"
+    },
+    {
+        "City": "臺北市",
+        "Town": "信義區",
+        "store_id": "5018",
+        "store_name": "信義永吉店",
+        "store_address": "110台北市信義區永吉路278巷27弄34、36號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "信義區",
+        "store_id": "B643",
+        "store_name": "北市松永店",
+        "store_address": "110台北市信義區永吉路280號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "信義區",
+        "store_id": "B056",
+        "store_name": "北市林口店",
+        "store_address": "110台北市信義區林口街36號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "信義區",
+        "store_id": "3301",
+        "store_name": "北市信誠店",
+        "store_address": "110台北市信義區松山路537號及541巷1號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "信義區",
+        "store_id": "2638",
+        "store_name": "北市信德店",
+        "store_address": "110台北市信義區虎林街164巷60弄2號一樓"
+    },
+    {
+        "City": "臺北市",
+        "Town": "信義區",
+        "store_id": "4850",
+        "store_name": "信義虎林店",
+        "store_address": "110台北市信義區虎林街242巷50號、52號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "信義區",
+        "store_id": "4168",
+        "store_name": "北市101店",
+        "store_address": "110台北市信義區信義路5段20號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "信義區",
+        "store_id": "2782",
+        "store_name": "北市信彩店",
+        "store_address": "110台北市信義區基隆路一段350之41,43號一樓"
+    },
+    {
+        "City": "臺北市",
+        "Town": "信義區",
+        "store_id": "4934",
+        "store_name": "信義福德店",
+        "store_address": "110台北市信義區福德街268巷18號、268巷4弄1號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "士林區",
+        "store_id": "3471",
+        "store_name": "北市士大店",
+        "store_address": "111台北市士林區大東路7號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "士林區",
+        "store_id": "3062",
+        "store_name": "北市士銓店",
+        "store_address": "111台北市士林區中山北路七段186號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "士林區",
+        "store_id": "4108",
+        "store_name": "北市天福店",
+        "store_address": "111台北市士林區中山北路六段431之4號1樓"
+    },
+    {
+        "City": "臺北市",
+        "Town": "士林區",
+        "store_id": "3509",
+        "store_name": "北市士海店",
+        "store_address": "111台北市士林區延平北路9段212號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "士林區",
+        "store_id": "D043",
+        "store_name": "北市延平二店",
+        "store_address": "111台北市士林區延平北路五段138號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "士林區",
+        "store_id": "4972",
+        "store_name": "士林通河店",
+        "store_address": "111台北市士林區承德路四段12巷35號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "士林區",
+        "store_id": "4683",
+        "store_name": "士林大宮町店",
+        "store_address": "111台北市士林區承德路四段130號及後港街37號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "士林區",
+        "store_id": "4884",
+        "store_name": "士林承德店",
+        "store_address": "111台北市士林區承德路四段80巷57號、劍潭路62號一樓全部(含地下室)"
+    },
+    {
+        "City": "臺北市",
+        "Town": "士林區",
+        "store_id": "A753",
+        "store_name": "北市開利店",
+        "store_address": "111台北市士林區社子街142,144號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "士林區",
+        "store_id": "A163",
+        "store_name": "北市社子店",
+        "store_address": "111台北市士林區社子街63巷2號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "士林區",
+        "store_id": "A067",
+        "store_name": "北市社正店",
+        "store_address": "111台北市士林區社正路27號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "士林區",
+        "store_id": "2755",
+        "store_name": "北市士慶店",
+        "store_address": "111台北市士林區社正路75號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "士林區",
+        "store_id": "4878",
+        "store_name": "士林陽明店",
+        "store_address": "111台北市士林區雨聲街105號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "士林區",
+        "store_id": "4418",
+        "store_name": "士林花好店",
+        "store_address": "111台北市士林區重慶北路四段78號及80號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "士林區",
+        "store_id": "4574",
+        "store_name": "士林月圓店",
+        "store_address": "111台北市士林區磺溪街23號一樓全部"
+    },
+    {
+        "City": "臺北市",
+        "Town": "北投區",
+        "store_id": "4313",
+        "store_name": "北市地熱谷店",
+        "store_address": "112台北市北投區中山路28之5、28之6號地下二層"
+    },
+    {
+        "City": "臺北市",
+        "Town": "北投區",
+        "store_id": "2528",
+        "store_name": "北投北天店",
+        "store_address": "112台北市北投區中央北路4段8號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "北投區",
+        "store_id": "3630",
+        "store_name": "北市政戰店",
+        "store_address": "112台北市北投區中央北路二段70號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "北投區",
+        "store_id": "2673",
+        "store_name": "北投北崗店",
+        "store_address": "112台北市北投區中央北路三段４４、４６號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "北投區",
+        "store_id": "3707",
+        "store_name": "北市奇岩店",
+        "store_address": "112台北市北投區中央南路二段5號及7號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "北投區",
+        "store_id": "4498",
+        "store_name": "北投希望店",
+        "store_address": "112台北市北投區中和街399-5 399-6號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "北投區",
+        "store_id": "4643",
+        "store_name": "北投火山店",
+        "store_address": "112台北市北投區中和街504號及中和街506號、508號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "北投區",
+        "store_id": "4956",
+        "store_name": "北投立農店",
+        "store_address": "112台北市北投區立農街二段292、294號及義理街96號 "
+    },
+    {
+        "City": "臺北市",
+        "Town": "北投區",
+        "store_id": "3118",
+        "store_name": "北市北功店",
+        "store_address": "112台北市北投區立德路60號及立功街135號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "北投區",
+        "store_id": "4561",
+        "store_name": "北投行義店",
+        "store_address": "112台北市北投區行義路128-1號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "北投區",
+        "store_id": "4124",
+        "store_name": "北市紗帽店",
+        "store_address": "112台北市北投區行義路142-1及142-3號B1"
+    },
+    {
+        "City": "臺北市",
+        "Town": "北投區",
+        "store_id": "4320",
+        "store_name": "北市護大店",
+        "store_address": "112台北市北投區明德路365號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "北投區",
+        "store_id": "3034",
+        "store_name": "北市關渡店",
+        "store_address": "112台北市北投區知行路314號、316巷2號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "北投區",
+        "store_id": "3969",
+        "store_name": "北市北清店",
+        "store_address": "112台北市北投區清江路53及55號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "北投區",
+        "store_id": "3607",
+        "store_name": "北市北裕店",
+        "store_address": "112台北市北投區裕民六路120號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "北投區",
+        "store_id": "5026",
+        "store_name": "北投北藝大",
+        "store_address": "112台北市北投區學園路1號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "北投區",
+        "store_id": "3257",
+        "store_name": "北市北武店(暫歇中)",
+        "store_address": "112台北市北投區學園路2號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "北投區",
+        "store_id": "4468",
+        "store_name": "北投北戰店(暫歇中)",
+        "store_address": "112台北市北投區學園路2號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "北投區",
+        "store_id": "A186",
+        "store_name": "北市懷德店",
+        "store_address": "112台北市北投區懷德街5號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "內湖區",
+        "store_id": "4161",
+        "store_name": "內湖湖月店",
+        "store_address": "114台北市內湖區大湖山莊街179號1樓"
+    },
+    {
+        "City": "臺北市",
+        "Town": "內湖區",
+        "store_id": "3870",
+        "store_name": "北市米蘭店",
+        "store_address": "114台北市內湖區內湖路一段120巷16號一樓全部"
+    },
+    {
+        "City": "臺北市",
+        "Town": "內湖區",
+        "store_id": "4951",
+        "store_name": "北市西湖店",
+        "store_address": "114台北市內湖區內湖路一段217巷37號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "內湖區",
+        "store_id": "L505",
+        "store_name": "車麗屋內湖店",
+        "store_address": "114台北市內湖區內湖路一段366號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "內湖區",
+        "store_id": "4211",
+        "store_name": "北市湖康店",
+        "store_address": "114台北市內湖區文湖街21巷26、28號1樓"
+    },
+    {
+        "City": "臺北市",
+        "Town": "內湖區",
+        "store_id": "4592",
+        "store_name": "內湖紫陽店",
+        "store_address": "114台北市內湖區文德路210巷30弄6、8、10號一樓"
+    },
+    {
+        "City": "臺北市",
+        "Town": "內湖區",
+        "store_id": "3735",
+        "store_name": "北市宏普店",
+        "store_address": "114台北市內湖區民權東路6段117號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "內湖區",
+        "store_id": "2132",
+        "store_name": "北市明湖店",
+        "store_address": "114台北市內湖區民權東路6段296巷68號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "內湖區",
+        "store_id": "2020",
+        "store_name": "北市國醫店",
+        "store_address": "114台北市內湖區民權東路六段123巷30、32號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "內湖區",
+        "store_id": "4103",
+        "store_name": "內湖國防店",
+        "store_address": "114台北市內湖區民權東路六段１６１號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "內湖區",
+        "store_id": "2397",
+        "store_name": "北市權湖店",
+        "store_address": "114台北市內湖區民權東路六段58號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "內湖區",
+        "store_id": "A318",
+        "store_name": "北市民東店",
+        "store_address": "114台北市內湖區民權東路六段69,71,75號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "內湖區",
+        "store_id": "4935",
+        "store_name": "內湖安泰店",
+        "store_address": "114台北市內湖區安泰街31號一樓"
+    },
+    {
+        "City": "臺北市",
+        "Town": "內湖區",
+        "store_id": "4754",
+        "store_name": "內湖安康店",
+        "store_address": "114台北市內湖區安康路142號一樓"
+    },
+    {
+        "City": "臺北市",
+        "Town": "內湖區",
+        "store_id": "A708",
+        "store_name": "北市內湖二店",
+        "store_address": "114台北市內湖區成功路二段318之1號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "內湖區",
+        "store_id": "L506",
+        "store_name": "車麗屋行忠店",
+        "store_address": "114台北市內湖區行忠路67號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "內湖區",
+        "store_id": "A896",
+        "store_name": "北市麥帥店",
+        "store_address": "114台北市內湖區行善路33及31號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "內湖區",
+        "store_id": "2006",
+        "store_name": "北市金湖店",
+        "store_address": "114台北市內湖區金湖路403號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "內湖區",
+        "store_id": "4097",
+        "store_name": "北市金碧店",
+        "store_address": "114台北市內湖區金龍路64、66號壹樓全部"
+    },
+    {
+        "City": "臺北市",
+        "Town": "內湖區",
+        "store_id": "4644",
+        "store_name": "內湖樂康店",
+        "store_address": "114台北市內湖區康樂街136巷18弄1號1樓"
+    },
+    {
+        "City": "臺北市",
+        "Town": "內湖區",
+        "store_id": "A311",
+        "store_name": "北市康樂二店",
+        "store_address": "114台北市內湖區康樂街92號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "內湖區",
+        "store_id": "2190",
+        "store_name": "北市陽光店",
+        "store_address": "114台北市內湖區陽光街347號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "內湖區",
+        "store_id": "4158",
+        "store_name": "北市新明店",
+        "store_address": "114台北市內湖區新明路241、241-1號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "內湖區",
+        "store_id": "4851",
+        "store_name": "內湖愛湖店",
+        "store_address": "114台北市內湖區新湖二路259巷6號一樓全部"
+    },
+    {
+        "City": "臺北市",
+        "Town": "內湖區",
+        "store_id": "4160",
+        "store_name": "北市湖元店",
+        "store_address": "114台北市內湖區新湖三路36號1樓"
+    },
+    {
+        "City": "臺北市",
+        "Town": "內湖區",
+        "store_id": "3750",
+        "store_name": "北市湖鑽店",
+        "store_address": "114台北市內湖區瑞光路５０２號１樓"
+    },
+    {
+        "City": "臺北市",
+        "Town": "內湖區",
+        "store_id": "2233",
+        "store_name": "北市湖森店",
+        "store_address": "114台北市內湖區瑞光路66巷33號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "內湖區",
+        "store_id": "3206",
+        "store_name": "北市湖潤店",
+        "store_address": "114台北市內湖區舊宗路一段188號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "南港區",
+        "store_id": "2569",
+        "store_name": "北市港北店",
+        "store_address": "115台北市南港區中坡北路50巷1號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "南港區",
+        "store_id": "B378",
+        "store_name": "北市港成店",
+        "store_address": "115台北市南港區玉成街27號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "南港區",
+        "store_id": "3995",
+        "store_name": "北市港運店",
+        "store_address": "115台北市南港區玉成街52巷2弄3號1樓全部、5號1樓"
+    },
+    {
+        "City": "臺北市",
+        "Town": "南港區",
+        "store_id": "4914",
+        "store_name": "南港合心店",
+        "store_address": "115台北市南港區玉成街82號一樓"
+    },
+    {
+        "City": "臺北市",
+        "Town": "南港區",
+        "store_id": "3340",
+        "store_name": "北市港醫店",
+        "store_address": "115台北市南港區同德路87號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "南港區",
+        "store_id": "4838",
+        "store_name": "南港成福店",
+        "store_address": "115台北市南港區成福路38號、40號一樓"
+    },
+    {
+        "City": "臺北市",
+        "Town": "南港區",
+        "store_id": "B011",
+        "store_name": "北市南港二店",
+        "store_address": "115台北市南港區忠孝東路七段639號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "南港區",
+        "store_id": "B042",
+        "store_name": "北市南港三店",
+        "store_address": "115台北市南港區忠孝東路六段252號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "南港區",
+        "store_id": "B344",
+        "store_name": "北市昆陽店",
+        "store_address": "115台北市南港區昆陽街99號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "南港區",
+        "store_id": "2597",
+        "store_name": "北市港漢店",
+        "store_address": "115台北市南港區南港路二段2,4號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "南港區",
+        "store_id": "4657",
+        "store_name": "南港慈祐宮店",
+        "store_address": "115台北市南港區南港路三段358、360號一樓"
+    },
+    {
+        "City": "臺北市",
+        "Town": "南港區",
+        "store_id": "4092",
+        "store_name": "北市港玉店",
+        "store_address": "115台北市南港區南港路三段8、10號一樓全部"
+    },
+    {
+        "City": "臺北市",
+        "Town": "南港區",
+        "store_id": "3748",
+        "store_name": "北市港宏店",
+        "store_address": "115台北市南港區研究院路二段110號一樓"
+    },
+    {
+        "City": "臺北市",
+        "Town": "南港區",
+        "store_id": "4383",
+        "store_name": "北市園區店",
+        "store_address": "115台北市南港區重陽路472號一樓"
+    },
+    {
+        "City": "臺北市",
+        "Town": "南港區",
+        "store_id": "4265",
+        "store_name": "北市經貿店",
+        "store_address": "115台北市南港區經貿二路235巷36號1樓"
+    },
+    {
+        "City": "臺北市",
+        "Town": "南港區",
+        "store_id": "3629",
+        "store_name": "北市港南店",
+        "store_address": "115台北市南港區舊莊街一段212巷2號一樓全部"
+    },
+    {
+        "City": "臺北市",
+        "Town": "文山區",
+        "store_id": "4617",
+        "store_name": "文山心動店",
+        "store_address": "116台北市文山區木柵路一段168、170號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "文山區",
+        "store_id": "C348",
+        "store_name": "北市世新店",
+        "store_address": "116台北市文山區木柵路一段8號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "文山區",
+        "store_id": "4973",
+        "store_name": "北市日出店",
+        "store_address": "116台北市文山區木柵路二段4號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "文山區",
+        "store_id": "4527",
+        "store_name": "文山大王店",
+        "store_address": "116台北市文山區木新路二段141、143號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "文山區",
+        "store_id": "C055",
+        "store_name": "北市木新二店",
+        "store_address": "116台北市文山區木新路三段232巷6弄18號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "文山區",
+        "store_id": "5023",
+        "store_name": "文山師大店",
+        "store_address": "116台北市文山區汀州路四段88號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "文山區",
+        "store_id": "2175",
+        "store_name": "北市指南店",
+        "store_address": "116台北市文山區指南路二段32號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "文山區",
+        "store_id": "3966",
+        "store_name": "北市政學店",
+        "store_address": "116台北市文山區指南路二段64號(自強十舍)"
+    },
+    {
+        "City": "臺北市",
+        "Town": "文山區",
+        "store_id": "4986",
+        "store_name": "北市痴心店",
+        "store_address": "116台北市文山區指南路二段64號(商學院一樓部分)"
+    },
+    {
+        "City": "臺北市",
+        "Town": "文山區",
+        "store_id": "3951",
+        "store_name": "北市貓空店",
+        "store_address": "116台北市文山區指南路三段38巷35號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "文山區",
+        "store_id": "4958",
+        "store_name": "文山景興店",
+        "store_address": "116台北市文山區景興路10巷2號1樓"
+    },
+    {
+        "City": "臺北市",
+        "Town": "文山區",
+        "store_id": "3760",
+        "store_name": "北市小貓熊店",
+        "store_address": "116台北市文山區新光路二段３０號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "文山區",
+        "store_id": "2133",
+        "store_name": "北市試院店",
+        "store_address": "116台北市文山區試院路104號"
+    },
+    {
+        "City": "臺北市",
+        "Town": "文山區",
+        "store_id": "2419",
+        "store_name": "北市文武店",
+        "store_address": "116台北市文山區羅斯福路五段203號"
+    },
+    {
+        "City": "基隆市",
+        "Town": "信義區",
+        "store_id": "3128",
+        "store_name": "基隆隆五店",
+        "store_address": "200基隆市仁愛區仁五路35號一樓"
+    },
+    {
+        "City": "基隆市",
+        "Town": "信義區",
+        "store_id": "4554",
+        "store_name": "基隆港西店",
+        "store_address": "200基隆市仁愛區港西街11號一樓"
+    },
+    {
+        "City": "基隆市",
+        "Town": "信義區",
+        "store_id": "2666",
+        "store_name": "基隆旭隆店",
+        "store_address": "200基隆市仁愛區精一路1號"
+    },
+    {
+        "City": "基隆市",
+        "Town": "中正區",
+        "store_id": "3128",
+        "store_name": "基隆隆五店",
+        "store_address": "200基隆市仁愛區仁五路35號一樓"
+    },
+    {
+        "City": "基隆市",
+        "Town": "中正區",
+        "store_id": "4554",
+        "store_name": "基隆港西店",
+        "store_address": "200基隆市仁愛區港西街11號一樓"
+    },
+    {
+        "City": "基隆市",
+        "Town": "中正區",
+        "store_id": "2666",
+        "store_name": "基隆旭隆店",
+        "store_address": "200基隆市仁愛區精一路1號"
+    }
+]
