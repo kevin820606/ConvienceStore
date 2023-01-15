@@ -56,12 +56,12 @@ complete_rank <-
     )
   )
 
-color_711 <- "#438939"
-color_7_f <- "#56b04a"
+color_711 <- "#05a54e"
+color_7_f <- "#26c7c6"
 color_7_o <- "#8a8439"
-color_familymart <- "#4485c9"
+color_familymart <- "#0078c8"
 color_okmart <- "#d8360c"
-color_hilife <- "#b6331b"
+color_hilife <- "#e81c24"
 
 taiwan_map <- sf::read_sf("data/taiwan/TOWN_MOI_1111118.shp") %>%
   full_join(complete_rank, by = c("COUNTYNAME", "TOWNNAME"))
